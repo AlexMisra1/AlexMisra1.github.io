@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 title: Alex Misra # the main title
 
-tagline: my personal blog # it will display as the sub-title
+tagline: my personal blog + nature photography # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   blog, misra, github, nature
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: images/avatar.jpg
+avatar: images/avatar/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
