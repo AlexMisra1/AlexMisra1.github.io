@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 title: Alex Misra # the main title
 
-tagline: my personal blog + nature photography # it will display as the sub-title
+tagline: nature photography and cool topics I find interesting  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   blog, misra, github, nature
