@@ -5,9 +5,7 @@ categories: [Climate]
 tags: [Climate]
 ---
 
-# My Arrival to North Carolina
-
-As a Bay Area native, I had the wonderful experience of visiting the East Coast for the first time last week. In particular, I visited the Research Triangle Park (RTP) area in North Carolina, which consists of Durham, Raleigh, and Chapel Hill. Fun fact for all the nerds: the reason why it’s called Research Triangle Park is because of the three highly regarded educational and research facilities of Duke University, UNC Chapel Hill, and NC State University situated in those cities respectively, which have geographical positions that form a triangle.
+As a native Bay Arean, I had the wonderful experience of visiting the East Coast for the first time last week. In particular, I visited the Research Triangle Park (RTP) area in North Carolina, which consists of Durham, Raleigh, and Chapel Hill. Fun fact for all the nerds: the reason why it’s called Research Triangle Park is because of the three highly regarded educational and research facilities of Duke University, UNC Chapel Hill, and NC State University situated in those cities respectively, which have geographical positions that form a triangle.
 
 Stepping out of RDU International Airport at night was a surreal moment for me. It was a humid eighty-four degrees, and I was sweating more profusely than I anticipated. I had never experienced weather like this. This fascinated me, and was my inspiration for this research into the myriad differences between the two vastly different climates. I did this specifically by documenting the vegetation through photos that I took.
 
