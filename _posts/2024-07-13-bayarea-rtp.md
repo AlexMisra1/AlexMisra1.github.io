@@ -15,7 +15,7 @@ Both places are relatively near the coast. The impact of the coast is reflected 
 
 ### RTP’s Climate
 
-Like much of the Eastern states, North Carolina's general climate is classified as humid subtropical.
+Like many of the Eastern states, North Carolina's general climate is classified as humid subtropical.
 
 #### More In-land Climate
 
