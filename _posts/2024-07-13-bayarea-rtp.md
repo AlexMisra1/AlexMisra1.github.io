@@ -145,7 +145,9 @@ As seen in the photos, near the coast but not directly on the coast, the Bay Are
 **Connection to climate:**  
 As seen in the photos, RTP's pine woodlands, which are located closer to the coast, show an extremely dense concentration of longleaf pines, which reflect the region's hot, humid summers and mild winters with generally fewer temperature fluctuations---especially closer to the coast. The predominant presence of taller, lankier trees with bare, darker trunks are the adaptations to the higher humidity and frequent rainfall that are generally typical of this climate closer to the coast. As an adaptation to absorb more sunlight in the dense woodland environment, the darker foliage supports the trees' growth and resilience in the exceptionally more humid climate closer to the coast of RTP. The darker soil reflects the fertile and more wet conditions influenced by the coastal proximity, and the stable, moderate temperatures help sustain the lush undergrowth and the dominance of salt-tolerant vegetation.
 
-## Photo Credit
+## Photo Credit and Information
 
-All photos in not just this blog post, but in all blog posts, are taken by me. If you would like to see my additional photos that are also in higher quality than in the blog posts, you can [click here](https://drive.google.com/drive/folders/1wrpC5GEXPhW3HTZ3zCPfQwamb6Pj36_n?usp=sharing).
+All my nature photos in not just this blog post, but in all blog posts, are taken by me and can be found [here](https://drive.google.com/drive/folders/1wrpC5GEXPhW3HTZ3zCPfQwamb6Pj36_n?usp=sharing) and in higher quality as well. 
+
+Once there, you'll find folders labeled by date, each containing photos taken on those specific days. The photos located in the folder up to and including the "4/28/24" folder were taken by me on my Canon Rebel EOS T6 until it unfortunately got lost. As a result, I reluctantly had to take the photos in the "6/16/24" folder on my iPhone 13 before getting a Kodak Pixpro AZ528 of which I used---and currently still use---to take the photos located in the remaining folders. I try to not take my nature photos with my phone. To be connected to nature is to disconnect with the everyday distractions of life, and documenting that through a phone is paradoxical in itself because those very same phones are the facilitators of our distractions and our disconnection with nature.
 
