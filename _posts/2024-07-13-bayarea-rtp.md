@@ -145,7 +145,7 @@ As seen in the photos, near the coast but not directly on the coast, the Bay Are
 **Connection to climate:**  
 As seen in the photos, RTP's pine woodlands, which are located closer to the coast, show an extremely dense concentration of longleaf pines, which reflect the region's hot, humid summers and mild winters with generally fewer temperature fluctuations---especially closer to the coast. The predominant presence of taller, lankier trees with bare, darker trunks are the adaptations to the higher humidity and frequent rainfall that are generally typical of this climate closer to the coast. As an adaptation to absorb more sunlight in the dense woodland environment, the darker foliage supports the trees' growth and resilience in the exceptionally more humid climate closer to the coast of RTP. The darker soil reflects the fertile and more wet conditions influenced by the coastal proximity, and the stable, moderate temperatures help sustain the lush undergrowth and the dominance of salt-tolerant vegetation.
 
-## Photo Disclaimer
+## Photo Credit
 
 All photos in not just this blog post, but in all blog posts, are taken by me. If you would like to see my additional photos that are also in higher quality than in the blog posts, you can [click here](https://drive.google.com/drive/folders/1wrpC5GEXPhW3HTZ3zCPfQwamb6Pj36_n?usp=sharing).
 
