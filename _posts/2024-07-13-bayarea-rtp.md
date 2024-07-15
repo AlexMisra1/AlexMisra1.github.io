@@ -5,36 +5,65 @@ categories: [Climate, Vegetation]
 tags: [climate, vegetation]
 ---
 
-As a native Bay Arean, I had the wonderful experience of visiting the East Coast for the first time last week. In particular, I visited the Research Triangle Park (RTP) area in North Carolina, which consists of Durham, Raleigh, and Chapel Hill. Fun fact for all the nerds: the reason why it’s called Research Triangle Park is because of the three highly regarded educational and research facilities of Duke University, UNC Chapel Hill, and NC State University situated in those cities respectively, which have geographical positions that form a triangle.
+Last week, I had the wonderful experience of visiting the East Coast for the first time. In particular, I visited the Research Triangle Park (RTP) area in North Carolina, which comprises Durham, Raleigh, and Chapel Hill. Fun fact for all the nerds out there: the reason why it’s called Research Triangle Park is because of the three highly regarded educational and research facilities of Duke University, UNC Chapel Hill, and NC State University situated in those cities respectively of which have geographical positions that form a triangle.
 
-Stepping out of RDU International Airport at night was a surreal moment for me. It was a humid eighty-four degrees, and I was sweating more profusely than I anticipated. I had never experienced weather like this. This fascinated me, and was my inspiration for this research into the myriad differences between the two vastly different climates. I did this specifically by documenting the vegetation through photos that I took.
+Stepping out of RDU International Airport at night was a surreal moment for me, especially as a native Bay Arean. I had never experienced weather like this. It was a humid eighty-four degrees, and I was sweating more profusely than I anticipated. This fascinated me, and was my inspiration for this research into the myriad differences between the two vastly different climates. I did this specifically by documenting the vegetation through photos that I took.
 
-## RTP’s Climate
+## The Bay Area and RTP's Climates
 
-Like a lot of the Eastern states, North Carolina’s climate is humid subtropical. Since there isn’t much of a variety between climates in the East let alone in individual states, like North Carolina, we can classify the climate of RTP as humid subtropical as well.
+Both places are relatively near the coast. The impact of the coast is reflected on the changing vegetation as you get closer to it, which reflects the changing climate. Thus, documenting one type of vegetation for each place wouldn't paint the full picture of how the vegetation reflects the climates for both places. That is why for each place, I've documented vegetation that's more in-land and vegetation that's closer to the coast.
 
-Some features of the humid subtropical climate include:
-- Hot humid summers
-- Mild winters
-- Evenly distributed precipitation
-- High humidity
-- Long growing season
-- Lush vegetation
+### RTP’s Climate
 
-## The Bay Area’s Climate
+Like much of the Eastern states, North Carolina's general climate is classified as humid subtropical.
 
-California has many vastly different climates. Coastal California (from Marin County and downwards), which includes the Bay Area, has a climate described as being Mediterranean.
+#### More In-land Climate
 
-Some features of Mediterranean climate include:
+RTP's more in-land areas can be described as having:
+- Hot, humid summers
+- Mild to cool winters
+- Evenly distributed precipitation throughout the year
+- High humidity levels
+- Longer growing seasons
+- Dense and lush vegetation
+
+#### Closer to the Coast Climate
+
+RTP closer to the coast can be described as having:
+- Hot, humid summers with slightly moderated temperatures due to proximity to the ocean
+- Mild winters with fewer temperature fluctuations
+- Higher humidity and more frequent rainfall
+- Stronger coastal influences leading to more stable and moderate temperatures
+- Similar growing seasons to in-land areas, but with more salt-tolerant vegetation due to coastal proximity
+
+### The Bay Area’s Climate
+
+California has many vastly different climates. Coastal California (from Marin County and downwards), which includes the Bay Area, has a climate generally described as Mediterranean. 
+
+#### More In-land Climate
+
+The Bay Area's more in-land areas can be described as having:
 - Hot, dry summers
-- Mild, wet winters
-- Distinct season contrast
-- Drought-resistant vegetation
-- High biodiversity
-- Frequent wildfires
-- Moderate coastal influences
+- Mild winters with less coastal influence
+- Pronounced season contrast with clear dry and wet seasons
+- Lush mixed evergreen forests
+- High biodiversity with diverse plant and animal life
+- Vegetation adapted to both dry summers and wet winters
+- Greater susceptibility to wildfires due to dry conditions
 
-## Intricate Differences
+#### Closer to the Coast Climate
+
+The Bay Area closer to the coast but not directly on the coast can be described as having:
+- Hotter summers with less marine influence
+- Mild, wet winters with more significant temperature fluctuations
+- Lower humidity compared to the immediate coastal areas
+- Pronounced season contrast with clear dry and wet seasons
+- Vegetation adapted to dry, hot summers and wetter winters
+- Grasslands and savannah-like areas with scattered trees
+- Higher risk of wildfires due to dry conditions
+
+
+## The Bay Area and RTP's Vegetation
 
 ### Vegetation closer in-land:
 
@@ -47,14 +76,15 @@ Some features of Mediterranean climate include:
 
 **Key observations:**
 - Dark, winding, more moss-covered tree trunks
-- Stocky, short trees
+- Thinner trees
 - Darker green leaves
 - Darker soil
 - An overall brownish tint to the forest
+- A variety of conifers and hardwoods
 - A lot of shrubs and underbrush
 
-**Conclusion:**
-The dark, winding, moss-covered tree trunks and stocky, short trees are adaptations to the region's summer droughts and mild, wet winters—and help conserve water and withstand periodic droughts. The darker green leaves and darker soil allow for maximizing photosynthesis and nutrient retention in these nutrient-poor soils that are common in these Mediterranean climates. The overall brownish tint and abundant shrubs and underbrush are adaptations to the frequent wildfires of these ecosystems; the shrubs act as a fire-adapted species in order to promote rapid regeneration after fires.
+**Connection to climate:**
+As seen in the photos, the composition of a rich undergrowth of shrubs along with conifers and hardwoods, which includes a variety of tree species such as redwoods, Douglas firs, and oaks reflect the biodiversity---indicating how much more inviting the Bay Area in-land climate is than the Bay Area climate closer but not next to the coast. The observations of dark, winding, moss-covered tree trunks are adaptations to the region's Mediterranean climate, which is previously characterized by hot, dry summers and wet winters. The thinner trees and darker green leaves are the necessary and vital adaptations to conserve water during the dry season. The brownish tint of the soil further emphasizes the ecosystem's adaptation to seasonal changes, supporting a vibrant mix of flora and fauna resilient to periodic wildfires and droughts.
 
 #### RTP Oak-Hickory Forests:
 ![RTP Oak-Hickory Forests](../images/2024-07-13/oak-hickory-1.jpeg)
@@ -66,15 +96,15 @@ The dark, winding, moss-covered tree trunks and stocky, short trees are adaptati
 ![RTP Oak-Hickory Forests](../images/2024-07-13/oak-hickory-7.jpeg)
 
 **Key observations:**
-- Lighter, straight, bare tree trunks
+- Lighter, straight, and more bare tree trunks
 - Taller, upright trees
 - Lighter green leaves
 - Lighter soil
 - An overall light green tint to the forest
 - A lack of shrubs and underbrush
 
-**Conclusion:**
-Lighter, straight, bare tree trunks and taller, upright trees are the adaptations needed to maximize light exposure in the densely forested environment of more in-land RTP. Lighter green leaves and lighter soils are the adaptations for higher precipitation and nutrient availability that are generally typical in humid subtropical climates closer in-land. The overall light green tint and minimal shrubs or underbrush are the adaptations for a less fire-prone environment compared to Mediterranean climates, which also allow for greater tree growth and canopy development over time.
+**Connection to climate:**
+As seen in the photos, RTP's oak-hickory forests present a variety of tall, upright trees predominantly composed of oak and hickory species. The observations of lighter, straighter, and more bare tree trunks are adaptations to in-land RTP's subtropical climate, characterized by hot, humid summers and mild winters with evenly distributed precipitation. The lighter green leaves and lighter soil are the necessary adaptations to higher humidity levels and fertile soils. Underbrush preserves moisture, which explains why there is a lack of it here in these higher humidity levels. These forests support a diverse ecosystem with adaptations to frequent rainfall and moderate temperature fluctuations throughout the year.
 
 ### Vegetation closer to the coast:
 
@@ -85,17 +115,17 @@ Lighter, straight, bare tree trunks and taller, upright trees are the adaptation
 ![Bay Area Oak Woodlands/Savannahs](../images/2024-07-13/oak-woodlands-savannah-4.jpeg)
 
 **Key observations:**
-- Less conglomeration of trees
+- Bunches of trees in crevaces 
 - Lack of tree variety; Coast Live Oak being predominant tree
-- Even stockier, shorter, thicker, and bushier trees
+- Stockier, shorter, thicker, and bushier trees
 - Leaves remain dark green, but waxy
 - Trunks are bare, but remain relatively dark
 - Lighter soil
-- Grasslands
+- Grasslands with the occasional tree
 - Less underbrush
 
-**Conclusion:**
-The sparse conglomeration of trees, which comprises Coast Live Oak, and their stockier, shorter, and bushier forms are adaptations to summer droughts and periodic fires. The dark green, waxy leaves and relatively dark trunks are the adaptations for water conservation and resilience to coastal fog. Lighter soils and extensive grasslands are the adaptations to nutrient-poor, well-drained soils and frequent wildfire events that shape these open woodland ecosystems. The lack of dense underbrush is an adaptation that promotes fire resistance, encouraging the dominance of the fire-adapted Coast Live Oak species.
+**Connection to climate:**  
+As seen in the photos, near the coast but not directly on the coast, the Bay Area's oak woodlands and savannahs feature a landscape dominated by Coast Live Oaks and grasslands. The observations of stockier, shorter, and bushier trees are adapted to the hotter summers and mild, wet winters with more significant temperature fluctuations highlight the region's Mediterranean climate with distinct dry and wet seasons. The drapery of the trees and their stockier statures reduce surface area exposed to the sun, which allows moisture to be retained through transpiration and reduces heat exposure. The waxy, dark green leaves and lighter soil (which also indicate more nutrient-poor soil) support a varied ecosystem adapted to these conditions, with grasslands and sparse underbrush contributing to the region's biodiversity and higher wildfire risk due to the drier, hotter environment.
 
 #### RTP Pine Woodlands:
 ![RTP Pine Woodlands](../images/2024-07-13/pine-woodlands-1.jpeg)
@@ -109,11 +139,11 @@ The sparse conglomeration of trees, which comprises Coast Live Oak, and their st
 - Taller and lankier trees
 - Trunks remain bare, but are darker
 - Darker soil
-- Leaves (that being pine needles) are darker and waxy
+- Foliage are darker
 - More underbrush
 
-**Conclusion:**
-Higher tree density, all dominated by Longleaf Pine, and lankier tree forms are the adaptations to the region's frequent rainfall and warmer temperatures. Darker, waxy pine needles and darker soils are the adaptations for maximizing nutrient uptake and water retention in the wetter environment, similar to the Bay Area’s more coastal climate. The darker, wetter soil supports biodiversity and ecosystem resilience, with these species adapted to fire regimes that historically shaped southeastern pine forests. This fire resilience is also seen in the Bay Area’s more coastal climate as well.
+**Connection to climate:**  
+As seen in the photos, RTP's pine woodlands, which are located closer to the coast, show an extremely dense concentration of longleaf pines, which reflect the region's hot, humid summers and mild winters with generally fewer temperature fluctuations---especially closer to the coast. The predominant presence of taller, lankier trees with bare, darker trunks are the adaptations to the higher humidity and frequent rainfall that are generally typical of this climate closer to the coast. As an adaptation to absorb more sunlight in the dense woodland environment, the darker foliage supports the trees' growth and resilience in the exceptionally more humid climate closer to the coast of RTP. The darker soil reflects the fertile and more wet conditions influenced by the coastal proximity, and the stable, moderate temperatures help sustain the lush undergrowth and the dominance of salt-tolerant vegetation.
 
 ## Photo Disclaimer
 
