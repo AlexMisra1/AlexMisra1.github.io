@@ -5,7 +5,7 @@ categories: [Climate, Vegetation]
 tags: [climate, vegetation]
 ---
 
-Last week, I had the wonderful experience of visiting the East Coast for the first time. In particular, I visited the Research Triangle Park (RTP) area in North Carolina, which comprises Durham, Raleigh, and Chapel Hill. Fun fact: the reason why it’s called Research Triangle Park is because of the three highly regarded educational and research facilities of Duke University, UNC Chapel Hill, and NC State University situated in those cities respectively of which have geographical positions that form a triangle.
+Last week, I had the wonderful experience of visiting the East Coast for the first time. In particular, I visited the Research Triangle Park (RTP) area in North Carolina, which comprises Durham, Raleigh, and Chapel Hill. Fun fact for all you curious people out there: the reason why it’s called Research Triangle Park is because of the three highly regarded educational and research facilities of Duke University, UNC Chapel Hill, and NC State University situated in those cities respectively of which have geographical positions that form a triangle.
 
 Stepping out of RDU International Airport at night was a surreal moment for me, especially as a native Bay Arean. I had never experienced weather like this. It was a humid eighty-four degrees, and I was sweating more profusely than I anticipated. This fascinated me, and was my inspiration for this research into the myriad differences between the two vastly different climates. I did this specifically by documenting the vegetation through photos that I took.
 
