@@ -1,8 +1,8 @@
 ---
 title: Photographing February in the Bay Area's Wilderness
 date: 2024-02-29 22:06:00 -0800
-categories: [Vegetation, Landscape]
-tags: [vegetation, landscape]
+categories: [Photography, Nature]
+tags: [plant photography, landscape photography]
 ---
 
 In last month’s post, I talked about how the rain in January wasn’t prolonged enough to have a visible impact on the landscape, specifically the **Monte Bello Open Space Preserve** landscape. This February was especially rainy—more rainy than January. So, I wanted to see if this month’s rain would be the tipping point in finally getting the landscape of the preserve to change.

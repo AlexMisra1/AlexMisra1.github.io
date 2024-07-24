@@ -1,8 +1,8 @@
 ---
 title: "Climate Difference Reflected in Bay Area vs. RTP Vegetation"
 date: 2024-07-13 22:20:00 -0800
-categories: [Climate, Vegetation]
-tags: [climate, vegetation]
+categories: [Photography, Nature]
+tags: [climate difference, plant photography, landscape photography]
 ---
 
 Last week, I had the wonderful experience of visiting the East Coast for the first time. In particular, I visited the Research Triangle Park (RTP) area in North Carolina, which comprises Durham, Raleigh, and Chapel Hill. Fun fact for all you curious people out there: the reason why it’s called Research Triangle Park is because of the three highly regarded educational and research facilities of Duke University, UNC Chapel Hill, and NC State University situated in those cities respectively of which have geographical positions that form a triangle.

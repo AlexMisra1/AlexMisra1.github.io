@@ -1,8 +1,8 @@
 ---
 title: "Photographing January in the Bay Area's Wilderness"
 date: 2024-01-30 21:55:00 -0800
-categories: [Vegetation, Landscape]
-tags: [vegetation, landscape]
+categories: [Photography, Nature]
+tags: [plant photography, landscape photography]
 ---
 
 I’m taking Photography 1 this school year, and so far we’ve taken a lot of nature photography around our school. I’ve been taking a liking to it, so as a sort of new year’s resolution, I’ve decided to take it up on my own time. Just over two weeks ago, on the 15th, my mom and I headed up to **Upper Stevens Creek County Park - Canyon Trail Trailhead**, a place where my family and I frequently hike—but for the first time, I brought my camera along. Taking my camera that day was the best thing I could’ve done. It opened up my eyes to all the intricate details we forget in our times with nature, and how a camera serves as a sort of lens (no pun intended) in allowing us to relive those details.
@@ -76,3 +76,4 @@ This photo is one of my favorites. It’s generally against custom to take photo
 ![IMG_3843 Large](../images/2024-01-30/IMG_3843-Large.jpeg)
 
 For this photo, I decided to be a bit more unconventional than I have been with my previous photos in a different way: rotating the camera. This vertical perspective better highlights the pathway. The newfound, green grass on the side but the old yellow grass further out also shows that the rainfall is only recent, and it needs to continue before the whole scenery transforms into a green landscape.
+
