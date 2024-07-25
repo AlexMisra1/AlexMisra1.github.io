@@ -1,8 +1,8 @@
 ---
-title: "Photographing January in the Bay Area's Wilderness"
+title: Photographing January in the Bay Area's Wilderness
 date: 2024-01-30 21:55:00 -0800
 categories: [Photography, Nature]
-tags: [plant photography, landscape photography]
+tags: [nature photography, vegetation, landscape]
 ---
 
 I’m taking Photography 1 this school year, and so far we’ve taken a lot of nature photography around our school. I’ve been taking a liking to it, so as a sort of new year’s resolution, I’ve decided to take it up on my own time. Just over two weeks ago, on the 15th, my mom and I headed up to **Upper Stevens Creek County Park - Canyon Trail Trailhead**, a place where my family and I frequently hike—but for the first time, I brought my camera along. Taking my camera that day was the best thing I could’ve done. It opened up my eyes to all the intricate details we forget in our times with nature, and how a camera serves as a sort of lens (no pun intended) in allowing us to relive those details.
