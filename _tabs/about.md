@@ -4,11 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-August 7th, 2024.
-
 To whoever comes upon this, greetings! 
 
-I’m Alex, an incoming senior at Henry M. Gunn High School here in the Bay Area. 
+I’m Alex Misra, an incoming senior at Henry M. Gunn High School here in the Bay Area. 
 
 From my posts, you would probably assume that I am enthusiastic about documenting the natural world through photography—and you would be right. My story with photography goes way back. In the summer of fourth grade, my grandpa visiting from Minsk brought along his DSLR. He taught me all about how to operate it, but I never really took on photography as he had hoped. It wasn’t until my junior year that I discovered my interest in it by taking a photography class. Specifically, it was when we were taking pictures of surrounding nature around our school. I’m very passionate about the environment, but nature photography allowed me to relish the details and intricacies of what we really care about when we say we’re passionate about the environment. 
 
