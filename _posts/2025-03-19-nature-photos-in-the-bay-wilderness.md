@@ -1,5 +1,5 @@
 ---
-title: Photographing the Last Day of Winter
+title: Photographing the End of Winter
 date: 2025-03-19 18:44:00 -0800
 categories: [Photography, Nature]
 tags: [natural beauty, climate change]
